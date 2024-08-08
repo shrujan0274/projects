@@ -533,7 +533,6 @@ int main()
 	b.tpin=2289;
 	printf("                     --------------------------------------------------------------------\n");
 	printf("                                WELCOME TO SECE E-BANKING SYSTEM PROJECT\n");	
-	printf("                               BANK NAME: SECE BANK | IFS CODE : SECE@420           \n");
 	printf("                     --------------------------------------------------------------------\n");
 	b.name[0]='D';
 	b.name[1]='E';
